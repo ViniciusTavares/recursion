@@ -1,9 +1,9 @@
 # Recursion
  Studying recursion algorithms 
 
-# Retunning
+# Running
 
-To tests all function, just run on your terminal:
+To test all functions, just run on your terminal:
 
 ```
 npm install
